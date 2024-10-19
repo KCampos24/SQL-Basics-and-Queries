@@ -18,12 +18,11 @@ Feel free to explore the files and see how SQL can be used to query, filter, and
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>SQL</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Program walk-through:</h2>
 
