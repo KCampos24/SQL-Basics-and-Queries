@@ -6,8 +6,6 @@
 Welcome to my SQL Learning Repository! This repository showcases a collection of SQL queries and exercises I’ve completed to practice and demonstrate fundamental SQL concepts. It includes various examples of how to: 
 
 - Perform basic SQL queries to retrieve and manipulate data
-- Apply advanced filters using WHERE, AND, OR, and NOT operators
-- Execute JOIN operations to merge data from multiple tables
 - Organize query results using ORDER BY for efficient data presentation
 
 
