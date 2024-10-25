@@ -1,7 +1,5 @@
 <h1>SQL Basics and Queries</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 Welcome to my SQL Learning Repository! This repository showcases a collection of SQL queries and exercises I’ve completed to practice and demonstrate fundamental SQL concepts. It includes various examples of how to: 
 
